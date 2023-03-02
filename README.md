@@ -71,27 +71,27 @@ A = \begin{bmatrix}
 \end{bmatrix}
 $$
 
-```math
+$$
 B = \begin{bmatrix}
 ? & ? & ? & ? & ? & ? \\
 ? & ? & ? & ? & ? & ? \\
 ? & ? & ? & ? & ? & ? \\
 ? & ? & ? & ? & ? & ? \\
 \end{bmatrix}
-```
+$$
 
-```math
+$$
 C = \begin{bmatrix}
 ? & ? & ? & ? & ? & ? \\
 ? & ? & ? & ? & ? & ? \\
 ? & ? & ? & ? & ? & ? \\
 ? & ? & ? & ? & ? & ? \\
 \end{bmatrix}
-```
+$$
 
 ## QAP
 
-```math
+$$
 A(x) = \begin{bmatrix}
 ?x^3 + ?x^2 + ?x + ?
 \\
@@ -101,9 +101,9 @@ A(x) = \begin{bmatrix}
 ?x^3 + ?x^2 + ?x + ? \\ 
 ?x^3 + ?x^2 + ?x + ? \\
 \end{bmatrix}
-```
+$$
 
-```math
+$$
 B(x) = \begin{bmatrix}
 ?x^3 + ?x^2 + ?x + ?
 \\
@@ -113,9 +113,9 @@ B(x) = \begin{bmatrix}
 ?x^3 + ?x^2 + ?x + ? \\ 
 ?x^3 + ?x^2 + ?x + ? \\
 \end{bmatrix}
-```
+$$
 
-```math
+$$
 C(x) = \begin{bmatrix}
 ?x^3 + ?x^2 + ?x + ?
 \\
@@ -125,7 +125,7 @@ C(x) = \begin{bmatrix}
 ?x^3 + ?x^2 + ?x + ? \\ 
 ?x^3 + ?x^2 + ?x + ? \\
 \end{bmatrix}
-```
+$$
 
 $$A(x).\vec{s} = ?$$
 $$B(x).\vec{s} = ?$$
