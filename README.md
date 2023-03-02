@@ -28,7 +28,7 @@ $$ \vec{b} = [?, ?, ?, ?, ?, ?] $$
 
 $$ \vec{c} = [?, ?, ?, ?, ?, ?] $$
 
-Verify $\vec{a}.\vec{s} * $\vec{b}.\vec{s} - $\vec{c}.\vec{s} == 0$
+$$Verify \vec{a}.\vec{s} * \vec{b}.\vec{s} - \vec{c}.\vec{s} == 0$$
 
 ### Gate #2
 
@@ -38,7 +38,7 @@ $$ \vec{b} = [?, ?, ?, ?, ?, ?] $$
 
 $$ \vec{c} = [?, ?, ?, ?, ?, ?] $$
 
-Verify $\vec{a}.\vec{s} * $\vec{b}.\vec{s} - $\vec{c}.\vec{s} == 0$
+$$Verify \vec{a}.\vec{s} * \vec{b}.\vec{s} - \vec{c}.\vec{s} == 0$$
 
 ### Gate #3
 
@@ -48,7 +48,7 @@ $$ \vec{b} = [?, ?, ?, ?, ?, ?] $$
 
 $$ \vec{c} = [?, ?, ?, ?, ?, ?] $$
 
-Verify $\vec{a}.\vec{s} * $\vec{b}.\vec{s} - $\vec{c}.\vec{s} == 0$
+$$Verify \vec{a}.\vec{s} * \vec{b}.\vec{s} - \vec{c}.\vec{s} == 0$$
 
 ### Gate #4
 
@@ -58,18 +58,18 @@ $$ \vec{b} = [?, ?, ?, ?, ?, ?] $$
 
 $$ \vec{c} = [?, ?, ?, ?, ?, ?] $$
 
-Verify $\vec{a}.\vec{s} * $\vec{b}.\vec{s} - $\vec{c}.\vec{s} == 0$
+$$Verify \vec{a}.\vec{s} * \vec{b}.\vec{s} - \vec{c}.\vec{s} == 0$$
 
 ## Constraint Matrices
 
-```math
+$$
 A = \begin{bmatrix}
 ? & ? & ? & ? & ? & ? \\
 ? & ? & ? & ? & ? & ? \\
 ? & ? & ? & ? & ? & ? \\
 ? & ? & ? & ? & ? & ? \\
 \end{bmatrix}
-```
+$$
 
 ```math
 B = \begin{bmatrix}
