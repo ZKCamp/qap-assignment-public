@@ -2,7 +2,7 @@
 
 Calculate QAP step by step for the given equation. Fill in the values in this markdown to complete the assignment
 
-$x^2-x-42 == 0$
+$$ x^2-x-42 == 0 $$
 
 ## Gates
 
